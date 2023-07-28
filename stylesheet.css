@@ -1,0 +1,48 @@
+.card-body {
+    text-align: center;
+    height: 450px;
+}
+
+.card-body:hover{
+    background-color: rgb(169, 137, 203)
+}
+.container-fluid {
+    width: 1000px;
+}
+
+.packages {
+    text-align: left;
+}
+.packages span {
+    font-size: medium;
+}
+
+.btn-primary:hover {
+    color: black;
+   
+  }
+
+ header {
+    background-color: rgb(134, 90, 182);
+ } 
+.navbar navbar-default {
+    height: 30px;
+
+}
+.active a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    
+}
+
+.navbar-brand {
+    font-size: 20px;
+    color: white;
+
+}
+
+.active1 a {
+    text-decoration: none;
+    color: white;
+}
